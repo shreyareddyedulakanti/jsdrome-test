@@ -1,0 +1,25 @@
+{
+  "name": "jsdrome-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyareddyedulakanti/jsdrome-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyareddyedulakanti/jsdrome-test/issues"
+  },
+  "homepage": "https://github.com/shreyareddyedulakanti/jsdrome-test#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.18.0"
+  }
+}
